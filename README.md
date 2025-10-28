@@ -25,3 +25,7 @@ This completed the first half of the Java Programming course offered by Universi
 - Inheritence, polymorphism
 
 I am enjoying struggling with the solutions to the problems and cannot wait to move on to the second half. Advanced Java Programming
+
+
+# Oct 26,27
+- Spent applying to jobs / doing job assessments.
