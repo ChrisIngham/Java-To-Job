@@ -29,3 +29,6 @@ I am enjoying struggling with the solutions to the problems and cannot wait to m
 
 # Oct 26,27
 - Spent applying to jobs / doing job assessments.
+
+# Oct 28 
+- Started on part ii - part 8. Learning about hashmaps
