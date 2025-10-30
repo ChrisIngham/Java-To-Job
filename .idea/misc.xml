@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_02.Book/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_03.Cube/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_12.Song/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_14.Books/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_17.Money/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_04.FitByte/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_15.Archive/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part07-Part07_03.Sorting/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part07-Part07_08.BigYear/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_01.OneMinute/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_16.DatingApp/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part07-Part07_05.Searching/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_10.CardPayments/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part07-Part07_07.RecipeSearch/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_09.HealthStation/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_08.BiggestPetShop/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_13.IdenticalTwins/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part07-Part07_06.GradeStatistics/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part06-Part06_09.SimpleDictionary/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part07-Part07_01.LiquidContainers/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_06.OverloadedCounter/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part07-Part07_02.LiquidContainers2/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_05.ConstructorOverload/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_11.ComparingApartments/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part05-Part05_07.NullPointerException/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part1/part07-Part07_04.ReadymadeSortingAlgorithms/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part2/part08-Part08_01.Cubes/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part2/part08-Part08_10.IOweYou/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part2/part08-Part08_05.TodoList/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part2/part08-Part08_06.Nicknames/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part2/part08-Part08_07.Abbreviations/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part2/part08-Part08_03.LiquidContainers/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part2/part08-Part08_08.PrintMeMyHashmap/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part2/part08-Part08_04.LiquidContainers2/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part2/part08-Part08_09.PrintMeAnotherHashmap/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part2/part08-Part08_02.AverageOfPositiveNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/MOOC-Practice/Part08_11.SameDate/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

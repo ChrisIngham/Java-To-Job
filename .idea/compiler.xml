@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Part07_05.Searching" />
+        <module name="Part08_08.PrintMeMyHashmap" />
+        <module name="Part05_08.BiggestPetShop" />
+        <module name="Part08_10.IOweYou" />
+        <module name="Part05_15.Archive" />
+        <module name="Part08_02.AverageOfPositiveNumbers" />
+        <module name="Part05_16.DatingApp" />
+        <module name="Part05_07.NullPointerException" />
+        <module name="Part08_01.Cubes" />
+        <module name="Part06_09.SimpleDictionary" />
+        <module name="Part05_05.ConstructorOverload" />
+        <module name="Part05_04.Fitbyte" />
+        <module name="Part07_06.GradeStatistics" />
+        <module name="Part07_02.LiquidContainers2" />
+        <module name="Part05_02.Book" />
+        <module name="Part05_01.OneMinute" />
+        <module name="Part05_11.ComparingApartments" />
+        <module name="Part08_04.LiquidContainers2" />
+        <module name="Part05_13.IdenticalTwins" />
+        <module name="Part05_10.CardPayments" />
+        <module name="Part05_14.Books" />
+        <module name="Part07_08.BigYear" />
+        <module name="Part05_06.OverloadedCounter" />
+        <module name="Part05_09.HealthStation" />
+        <module name="Part07_03.Sorting" />
+        <module name="Part08_09.PrintMeAnotherHashmap" />
+        <module name="Part07_01.LiquidContainers" />
+        <module name="Part8_07.Abbreviations" />
+        <module name="Part05_03.Cube" />
+        <module name="Part05_17.Money" />
+        <module name="Part08_05.TodoList" />
+        <module name="Part08_03.LiquidContainers" />
+        <module name="Part08_06.Nicknames" />
+        <module name="Part07_04.ReadymadeSortingAlgorithms" />
+        <module name="Part05_12.Song" />
+        <module name="Part07_07.RecipeSearch" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Part08_11.SameDate" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

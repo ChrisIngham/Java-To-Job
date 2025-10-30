@@ -35,6 +35,20 @@ public class SimpleDate {
         return false;
     }
 
+    public boolean equals(Object object){
+        if (object == null || this.getClass() != object.getClass()){
+            return false;
+        }
+        if (object == this){
+            return true;
+        }
+
+        SimpleDate compared = (SimpleDate) object;
+        return this.day == compared.day &&
+                this.month == compared.month &&
+                this.year == compared.year;
+    }
+
     public int differenceInYears(SimpleDate other) {
         if (earlier(other)) {
             return other.differenceInYears(this);
