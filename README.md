@@ -32,3 +32,8 @@ I am enjoying struggling with the solutions to the problems and cannot wait to m
 
 # Oct 28 
 - Started on part ii - part 8. Learning about hashmaps
+
+
+# Nov 2 
+- Created Springboot api, need to continue to work on the frontend to get a proper application
+- Two Sum Leetcode completed
