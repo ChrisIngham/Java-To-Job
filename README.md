@@ -37,3 +37,6 @@ I am enjoying struggling with the solutions to the problems and cannot wait to m
 # Nov 2 
 - Created Springboot api, need to continue to work on the frontend to get a proper application
 - Two Sum Leetcode completed
+
+# Nov 3 
+- created leetcode repo, to practice for java interviews. redoing what i know in python 
