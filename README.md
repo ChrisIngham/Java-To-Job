@@ -40,3 +40,8 @@ I am enjoying struggling with the solutions to the problems and cannot wait to m
 
 # Nov 3 
 - created leetcode repo, to practice for java interviews. redoing what i know in python 
+
+
+# Nov 7 
+- read 50 pages of  Code: The Hidden Language of Computer Hardware and Software
+by Charles Petzold. helping me think line a better programmer by thinking like one. did this while travelling away from my pc.
