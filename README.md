@@ -45,3 +45,6 @@ I am enjoying struggling with the solutions to the problems and cannot wait to m
 # Nov 7 
 - read 50 pages of  Code: The Hidden Language of Computer Hardware and Software
 by Charles Petzold. helping me think line a better programmer by thinking like one. did this while travelling away from my pc.
+
+# Nov 11-14
+- created multiple player blackjack eith java
